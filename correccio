@@ -1,0 +1,27 @@
+Exercici 1: 1.25/2
+  (a) correcte 1/1
+  (b) error en la fórmula: 0.25/1
+  Pel cas de les entrades retornades. A continuació et poso el codi que vas fer:
+
+          nombre_entrades=10
+          cost_total=preu_entrada*nombre_entrades
+          nombre_entrades_retornades=4
+          percentatge=0.88
+          cost_final=cost_total-nombre_entrades_retornades*percentatge
+          cost_final
+
+  Fixa't que no vas considerar que tots els diners que et retornen son:
+  nombre_entrades_retornades*preu_entrada*percentatge
+
+Exercici 2: bé. 1.5/1.5p
+Exercici 3: Hi ha un error en la fórmula del volum: és (4/3)*math.pi*r**3, però m'has posat (3/4)*math.pi*r**3
+1.25/1.5p
+Exerici 4: 
+ Tot bé. Al missatge final, volia que utilitzessiu la comanda \n per fer el salt de línia. De l'estil:
+      print(f"El meu nom és {nom}.\nLa primera lletra del meu nom és {primera_lletra}.\n")
+  3.75/4p
+
+Jupyter notebook: 1/1
+Github: 1/1
+
+  Nota: 1.25+1.5+1.5+3.75+1+1= 10/11 = 9.09/10
